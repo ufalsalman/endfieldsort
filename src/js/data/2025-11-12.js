@@ -10,7 +10,6 @@ dataSet[dataSetVersion].options = [
     sub: [
       { name: "Endfield Industries", key: "endfield" },
       { name: "Rhodes Island", key: "rhodes" },
-      { name: "Landbreaker", key: "landbreaker" },
       { name: "Order of Steel Oath", key: "oso" },
       { name: "Seš'qa", key: "sesqa" },
       { name: "Hongshan Academy of Science", key: "hongshan" },
