@@ -205,7 +205,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Catcher",
-    img: "Catcher.png",
+    img: "catcher.png",
     opts: {
       faction: ['endfield'],
       male: true
