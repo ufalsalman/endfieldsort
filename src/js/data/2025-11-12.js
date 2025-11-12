@@ -36,7 +36,7 @@ dataSet[dataSetVersion].options = [
 
 dataSet[dataSetVersion].characterData = [
   {
-    name: "Endministrator (Female)",
+    name: "Endministrator (Male)",
     img: "endminA.png",
     opts: {
       faction: ['endfield'],
@@ -44,7 +44,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Endministrator (Male)",
+    name: "Endministrator (Feale)",
     img: "endminB.png",
     opts: {
       faction: ['endfield'],
