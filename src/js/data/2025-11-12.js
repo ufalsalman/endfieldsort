@@ -99,7 +99,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "ember",
+    name: "Ember",
     img: "ember.png",
     opts: {
       faction: ['oso'],
